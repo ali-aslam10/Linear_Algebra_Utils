@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Linear Algebra repository.LinearAlgebraUtils is a collection of standalone Python programs designed to perform various linear algebra operations. This repository includes programs for converting matrices to row echelon form (REF), reduced row echelon form (RREF), checking if a matrix is in RREF, and finding the inverse of a matrix using Gaussian elimination.
+Welcome to the Linear Algebra repository.LinearAlgebraUtils is a collection of standalone Python programs designed to perform various linear algebra operations. This repository includes programs for converting matrices to row echelon form (REF), reduced row echelon form (RREF), checking if a matrix is in RREF, finding the inverse of a matrix using Gaussian elimination and solve linear system.
   
 
 ## Repository Structure
@@ -13,6 +13,7 @@ The repository contains the following files:
 - **reduced_row_echelon_form.py:** Program to convert a matrix to reduced row echelon form.
 - **is_rref.py:** Program to check if a matrix is in reduced row echelon form.
 - **matrix_inverse.py:** Program to find the inverse of a matrix using Gaussian elimination.
+- **linear_system_solver.py:** This provides a Python implementation for solving linear systems of equations using row echelon form. It handles both unique and non-unique solutions, and in the case of non-unique solutions, it returns any 5 possible solutions.
 
 
 ## How to Use
