@@ -17,7 +17,7 @@
 Clone this repository or download `linalg_utils.py` to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/LAUtils.git
+git clone https://github.com/ali-aslam10/Linear_Algebra_Utils.git
 ```
 ## Usage
 
